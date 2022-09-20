@@ -3,3 +3,5 @@ title: James Fields homepage
 description: this is where the magic happens
 url: "https://jfield.github.io"
 markdown: kramdown
+highlighter: rouge
+remote_theme: just-the-docs/just-the-docs
