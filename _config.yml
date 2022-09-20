@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: James Fields homepage
 description: this is where the magic happens
+url: "https://jfield.github.io"
+markdown: kramdown
