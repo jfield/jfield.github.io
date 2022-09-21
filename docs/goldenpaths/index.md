@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Golden Paths
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
-
-![The Golden Path to Success]!(assets/)
