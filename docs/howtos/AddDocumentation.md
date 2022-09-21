@@ -2,7 +2,7 @@
 layout: default
 title: Add Documentation to the site
 nav_order: 1
-Parent: HowTos
+parent: HowTos
 ---
 
 # HOWTO: Add documentation to the site
