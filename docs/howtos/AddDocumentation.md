@@ -27,7 +27,7 @@ parent: <the title of the top level document in the section>
 ## Adding a new Section
 
 1. Create a new folder named the same as the section name.
-2. Add an md file to be used as the Section Header. It should be named the same as the section for clarity
+2. Add an index.md file to be used as the Section header.
 3. Add the following frontmatter to the file:
 
 ```yaml
